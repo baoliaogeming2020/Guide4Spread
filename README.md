@@ -4,6 +4,7 @@
 
 流行梯子汇总：  [LadderCollection.html](collect/LadderCollection.html)  
 七哥爆料视频汇总-长期有效： [MilesVideo.html](collect/MilesVideo.html)  
-爆料视频@油管-下载长期有效:  [MilesYoutube.html](collect/MilesYoutube.html)
+爆料视频@油管-下载长期有效：  [MilesYoutube.html](collect/MilesYoutube.html)  
+WARP+优选IP教程：  [optimizeIP.html](collect/optimizeIP.html)
 
 所有翻墙软件都是 ed2k / BT-magnet / 官网 链接。
