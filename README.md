@@ -7,3 +7,4 @@
 爆料视频@油管-下载长期有效：  [MilesYoutube.html](collect/MilesYoutube.html)  
 WARP+优选IP教程：  [optimizeIP.html](collect/optimizeIP.html)   
 HiddifyApp Guide中文版：  [hiddify-zhcn.html](collect/hiddify-zhcn.html)   
+联盟宣统X跟帖战队教程：  [bible4AlliancePublicity.html](collect/bible4AlliancePublicity.html)   
